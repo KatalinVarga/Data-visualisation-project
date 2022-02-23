@@ -1,0 +1,67 @@
+[
+    {
+      "year": "1960",
+      "average_gross_annual_income": "£492",
+      "average_gross_monthly_salary": "£41",
+      "average_houseprice": "£2,530",
+      "number_of_months_wages_for_houseprice": "62",
+      "number_of_years_worked_for_houseprice": "5"
+    },
+    {
+      "year": "1970",
+      "average_gross_annual_income": "£955",
+      "average_gross_monthly_salary": "£80",
+      "average_houseprice": "£3,920",
+      "number_of_months_wages_for_houseprice": "49",
+      "number_of_years_worked_for_houseprice": "4"
+    },
+    {
+      "year": "1980",
+      "average_gross_annual_income": "£4353",
+      "average_gross_monthly_salary": "£363",
+      "average_houseprice": "£19,273",
+      "number_of_months_wages_for_houseprice": "53",
+      "number_of_years_worked_for_houseprice": "4.4"
+    },
+    {
+      "year": "1990",
+      "average_gross_annual_income": "£10,528",
+      "average_gross_monthly_salary": "£877",
+      "average_houseprice": "£58,250",
+      "number_of_months_wages_for_houseprice": "66",
+      "number_of_years_worked_for_houseprice": "5.5"
+    },
+    {
+       "year": "2000",
+      "average_gross_annual_income": "£16,506",
+      "average_gross_monthly_salary": "£1,376",
+      "average_houseprice": "£84,620",
+      "number_of_months_wages_for_houseprice": "61.5",
+      "number_of_years_worked_for_houseprice": "5"
+    },
+    {
+       "year": "2010",
+      "average_gross_annual_income": "£23,469",
+      "average_gross_monthly_salary": "£1,956",
+      "average_houseprice": "£167,469",
+      "number_of_months_wages_for_houseprice": "86",
+      "number_of_years_worked_for_houseprice": "7"
+    },
+    {
+       "year": "2020",
+      "average_gross_annual_income": "£28,444",
+      "average_gross_monthly_salary": "£2,370",
+      "average_houseprice": "£231,940",
+      "number_of_months_wages_for_houseprice": "98",
+      "number_of_years_worked_for_houseprice": "8"
+    },
+    {
+       "year": "Latest data - Nov 2021",
+      "average_gross_annual_income": "£28,600",
+      "average_gross_monthly_salary": "£2,383",
+      "average_houseprice": "£270,708",
+      "number_of_months_wages_for_houseprice": "114",
+      "number_of_years_worked_for_houseprice": "9.5"
+    }
+    
+   ]
